@@ -38,7 +38,7 @@ body {
 
 .third-card {
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-content: space-between;
 }
 
